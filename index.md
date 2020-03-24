@@ -1,11 +1,8 @@
 ---
 title: Home
 banner:
-  title: Spectral
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+  title: Zephyr Bioworks
+  subtitle: Reinventing how we measure the human body
   actions:
     - label: Activate
       url: /generic
